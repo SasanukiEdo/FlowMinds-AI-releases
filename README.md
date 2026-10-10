@@ -108,6 +108,17 @@ FlowMinds-AI/
 
 ---
 
+## 外部ツール連携
+
+### Irodori-TTS（ローカル音声合成）
+
+音声合成エンジン [Irodori-TTS](https://github.com/Aratako/Irodori-TTS) を FlowMinds で使うためのブリッジ（中継プログラム）を配布しています。v4 / v3 対応。
+
+- ダウンロード: [irodori-tts-bridge.zip](https://github.com/SasanukiEdo/FlowMinds-AI-releases/raw/main/irodori-tts-bridge/irodori-tts-bridge.zip)
+- 導入手順: [irodori-tts-bridge/README.md](irodori-tts-bridge/README.md)
+
+---
+
 ## リンク
 
 - X（旧Twitter）: https://x.com/FlowMinds_AI
